@@ -9,3 +9,4 @@ In order to register for Git kata event - please make a pull request in this pro
 **We count on your creativity.**
 
 ----
+
