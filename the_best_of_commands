@@ -1,37 +1,36 @@
-##Komendy zebrane podczas jednych z warsztatów
-
+ï»¿##Komendy zebrane podczas jednych z warsztatÃ³w
 git init  ##(stworzone puste repo (tworzymy pusty katalog .git)
-git status ##(plik i katalog nieœledzone)
-git commit -a -m "init commit"   ## przedstawianie siê... (np. w gericie s¹ wyszukiwane po tym name po którym podamy)
+git status ##(plik i katalog nieÅ›ledzone)
+git commit -a -m "init commit"   ## przedstawianie siÄ™... (np. w gericie sÄ… wyszukiwane po tym name po ktÃ³rym podamy)
 git config -l   ##listowanie ustawien
 git config --global user.name ## przelacznik global sprawi to ze zapisza sie w katalogu domowym nie tylko tego projektu
-git config --system user.name ##dla ca³ego systemu
-git config 	## ustawienia l¹duja w .git/config
+git config --system user.name ##dla caÅ‚ego systemu
+git config 	## ustawienia lÄ…duja w .git/config
 git config --global user.name "nazwa_uzytkownika"
 git config --global user.email "user@mail.com"
 git config --global alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit ##pokazywanie referecji						
 git config --global alias.lola "log --graph --decorate --pretty=oneline --abbrev-commit ##wszystkie referecje w repozytorium, lol tylko lokalnego brancha
-git commit -a -m "init commit"       ##œledzi to co powinno siê znaleœæ w kolejnym kommicie
-git add --all ##i teraz ju¿ œledzi wszystkie pliki
+git commit -a -m "init commit"       ##Å›ledzi to co powinno siÄ™ znaleÅºÄ‡ w kolejnym kommicie
+git add --all ##i teraz juÅ¼ Å›ledzi wszystkie pliki
 git commit -m "init repo"   ##|--->   commit message
-git commit -a -m "url change" ## bez dodawania do indeksu najpierw (commituje wszuystkie pliki w których nastapi³a zmiana
-git remote add nazwa_skrocona adres_repo ## do zarz¹dzania zdalnymi repozytorami s³u¿y    
+git commit -a -m "url change" ## bez dodawania do indeksu najpierw (commituje wszuystkie pliki w ktÃ³h nastapiÅ‚a zmiana
+git remote add nazwa_skrocona adres_repo ## sÅ‚uÅ¼y do zarzÄ…dzania zdalnymi repozytorami     
 git remote add origin                   ssh://user@serwer/repozytorium
 git remote ## listuje wszystkie zdalne repozytoria
 git push origin ## wrzuca do zdalnego repozytorium
 git push ssh://blblebleble ##albo tak
 git push origin master ## dodanie do mastera			
 git remote remove origin 	##usuwanie zdalnego repo
-git push origin refs/for/master   ##utworzy dla wszystkich commitów osobne branche
+git push origin refs/for/master   ##utworzy dla wszystkich commitÃ³w osobne branche
             ##  <src>:<dst>
 git push origin HEAD:refs/for/master
-git commit --amend  ## (wyœwietla change ID)
-git rebase ### zmiany bazy gita   zmienia nasz¹ historiê commitów
+git commit --amend  ## (wyÅ›wietla change ID)
+git rebase ### zmiany bazy gita   zmienia nasza historia commitÃ³w
 git merge ## modyfikacja naszego  repo
-git rebase -i ## interaktywnie (np. zmiana commitów z historii
-git rebase -i --root #pozwala tak¿e na edycjê pierwszego commitA
-##rebase cofa siê i do commitu który mu wska¿emy 
-##mo¿na te¿ u¿yt git reset, ale przy rebase wci¹¿ mamy nasz¹ historiê
+git rebase -i ## interaktywnie (np. zmiana commitÃ³w z historii
+git rebase -i --root #pozwala takÅ¼e na edycjÄ™ pierwszego commitu
+##rebase cofa siÄ™ do commitu ktÃ³ry mu wskaÅ¼emy 
+##moÅ¼na teÅ¼ uÅ¼yÄ‡ git reset, ale przy rebase wciÄ…Å¼ mamy naszÄ… historiÄ™
 git fetch   ##pobranie aktualnej wersji z serwera
 
 
