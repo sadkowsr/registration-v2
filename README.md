@@ -10,4 +10,6 @@ Still don't know what Git Kata 2 is? Check http://v2.gitkata.pl/index.html
 In order to register for Git kata event - please make a pull request in this project.
 **We count on your creativity.**
 
+Leciał sobie słoń zielony, ważył dobre cztery tony.
+
 ----
