@@ -1,4 +1,4 @@
-﻿##Tak *napisał* Tuwim o Git##
+##Tak *napisał* Tuwim o Git##
 
 Ci, którzy nie wiedzą,  
 że nie wiedzą -  
@@ -15,3 +15,4 @@ to *__śpiący__*, obudź ich.
 Ci, co wiedzą i wiedzą,  
 że wiedzą -  
 to *__Git-mistrzowie__*, idź śladem ich! 
+
