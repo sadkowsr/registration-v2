@@ -12,4 +12,5 @@ In order to register for Git kata event - please make a pull request in this pro
 
 Leciał sobie słoń zielony, ważył dobre cztery tony.
 
+potato
 ----
