@@ -1,3 +1,4 @@
 .project
 *.class
 target/
+./do/not/ignore/my/pull.request
