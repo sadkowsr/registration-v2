@@ -1,0 +1,29 @@
+Imię *
+|-----------------------------|
+|  Maciej                     |
+|-----------------------------|
+
+Nazwisko *
+|-----------------------------|
+|  Górski                     |
+|-----------------------------|
+
+Zawód
+|-----------------------------|
+|  Włóczykij konferencyjny    |
+|-----------------------------|
+
+Dlaczego chcesz tam być?
+|-----------------------------|
+| meet smart people, have fun |
+|-----------------------------|
+
+|--|
+|X | Wyrażam zgodę na przetważanie moich danych osobowych w celach rejestracji na GitKata2 *
+|--|
+
+|--|
+| X| Przeczytałem regulamin GitKata2 i zgadzam się z jego postanowieniami (m.in. oddanie duszy po 10000 commitów) *
+|--|
+
+* pole obowiązkowe
