@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../projects/CommonChainTest/CommonChainTest.iml" filepath="$PROJECT_DIR$/../projects/CommonChainTest/CommonChainTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../projects/PAYMULTest/PAYMULTest.iml" filepath="$PROJECT_DIR$/../projects/PAYMULTest/PAYMULTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../projects/SCJP/SCJP.iml" filepath="$PROJECT_DIR$/../projects/SCJP/SCJP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/undoProcessor.iml" filepath="$PROJECT_DIR$/undoProcessor.iml" />
+    </modules>
+  </component>
+</project>
+
