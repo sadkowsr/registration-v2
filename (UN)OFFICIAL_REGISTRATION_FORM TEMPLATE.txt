@@ -1,0 +1,29 @@
+Imię *
+|-----------------------------|
+|                             |
+|-----------------------------|
+
+Nazwisko *
+|-----------------------------|
+|                             |
+|-----------------------------|
+
+Zawód
+|-----------------------------|
+|                             |
+|-----------------------------|
+
+Dlaczego chcesz tam być?
+|-----------------------------|
+|                             |
+|-----------------------------|
+
+|--|
+|  | Wyrażam zgodę na przetważanie moich danych osobowych w celach rejestracji na GitKata2 *
+|--|
+
+|--|
+|  | Przeczytałem regulamin GitKata2 i zgadzam się z jego postanowieniami (m.in. oddanie duszy po 10000 commitów) *
+|--|
+
+* pole obowiązkowe
