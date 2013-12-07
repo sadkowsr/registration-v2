@@ -1,0 +1,9 @@
+./do/not/ignore/my/pull.request
+.gradle
+.idea
+.project
+*.class
+*.iml
+build/
+target/
+out

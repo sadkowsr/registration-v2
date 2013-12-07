@@ -1,0 +1,4 @@
+
+
+Dlaczego nie powinniśmy programować w Wigilię? Bo bug się rodzi.
+

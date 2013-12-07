@@ -1,0 +1,9 @@
+init, add it, commit, push it,
+branch it, stash it, stage - unstage it
+git reset HEAD path/to/file
+git add, git rebase --continue
+
+gitflow logic (x2)
+
+--
+http://pleer.com/tracks/5928534KKdc

@@ -67,4 +67,5 @@ int main()
         }));
     for (std::future<void>& future : futures)
         future.wait();
+    return 0; 
 }
